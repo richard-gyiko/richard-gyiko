@@ -1,34 +1,23 @@
-# Welcome! 👋
+# Hi, I’m Ricsi 👋
 
-I'm Ricsi, and my journey through tech has been an exciting adventure. I started out as a **.NET developer** 10 years ago, building solid, efficient applications (and yes, .NET still holds a special place in my heart). As technology evolved, so did my curiosity, leading me to dive into the fast-paced world of **AI**.
-
-Over the years, I expanded my expertise to include **frameworks for building SaaS products** and advanced **automation tools**. I’ve held the role of **Lead Developer at an international ticketing company**, where I led impactful projects and mentored talented teams. Today, I’m a **part-time AI consultant**, helping a local company enhance its AI capabilities and working as a product builder striving to bring innovative ideas to market.
-
-The tech community has given me so much over the years, and I believe in giving back by sharing my experiences and insights through **[Medium](https://medium.com/@richard.gyiko) blog posts**. It’s my way of contributing to the field that fuels my passion.
-
-Outside of coding, I’m a dedicated parent and an aspiring **regenerative gardener**, finding the balance between tech and personal growth.
+I’m a **software engineer & AI builder** with 10+ years of experience — from **.NET development** to **AI, data engineering, and SaaS platforms**.
+These days, I focus on building **practical AI systems**, **agent frameworks**, and **automation tools** that make complex workflows reliable and scalable.
 
 ---
 
-## How I Can Help
+## 🌟 What I Do
 
-- **AI Solutions**: Developing practical, AI-powered applications.
-- **SaaS Development**: Creating scalable solutions with **Next.js** and **Supabase**.
-- **Leadership & Mentoring**: Guiding projects and supporting the growth of developers.
-- **AI Consulting**: Delivering tailored AI solutions and automation expertise.
-- **Legacy Modernization**: Bridging **.NET** systems with modern technologies.
-
----
-
-## Tech Stack
-
-- **Languages**: C#, Python, TypeScript
-- **Frameworks & Libraries**: .NET, Next.js, shadcn/ui
-- **Databases**: PostgreSQL, Supabase
-- **Automation Tools**: Voiceflow, Vapi, Make
-- **Cloud**: AWS Serverless
-- **Other**: LLM Agents, Multi-Agent LLM Systems
+* **AI & Automation** → RAG systems, document extraction, multi-agent frameworks
+* **SaaS Development** → Next.js + Supabase + Stripe, deployed on Vercel/AWS
+* **Data & Analytics** → DuckDB, dlt, SQLMesh, financial and reporting pipelines
+* **Leadership & Mentoring** → helping teams modernize stacks and practices
 
 ---
 
-Feel free to reach out if you’re interested in collaborating or discussing tech ideas!
+## 🌱 Currently Building
+
+- Immersed in lightweight data engineering with **DuckDB, SQLMesh, dlt**, and related tools  
+
+---
+
+📌 Check out my **pinned repositories below** to see what I’ve been working on.
