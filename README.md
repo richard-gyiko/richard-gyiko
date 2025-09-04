@@ -7,8 +7,8 @@ These days, I focus on building **practical AI systems**, **agent frameworks**, 
 
 ## 🌟 What I Do
 
-* **AI & Automation** → RAG systems, document extraction, multi-agent frameworks
-* **SaaS Development** → Next.js + Supabase + Stripe, deployed on Vercel/AWS
+* **AI & Automation** → RAG systems, document extraction and understanding, agents
+* **SaaS Development** → Next.js + Supabase + Stripe, deployed on Vercel/AWS, Payload CMS
 * **Data & Analytics** → DuckDB, dlt, SQLMesh, financial and reporting pipelines
 * **Leadership & Mentoring** → helping teams modernize stacks and practices
 
